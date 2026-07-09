@@ -9,7 +9,7 @@ Tento projekt bol zameraný na implementáciu backend logiky, autentifikácie po
 - **Prepojenie s databázou:** Návrh databázovej štruktúry a implementácia SQL dopytov.
 - **Zabezpečenie:** Základná ochrana proti SQL injection a XSS útokom.
   
-*Pre prihlásenie na stránke administrácia stačí zadať napr meno mrkva a heslo mrkva.
+*Pre prihlásenie na stránke administrácia stačí zadať napr meno mrkva a heslo mrkva.*
 ## Použité technológie
 - PHP
 - MySQL / SQL
